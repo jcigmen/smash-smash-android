@@ -1,0 +1,75 @@
+
+ALIENS.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MERCHANT
+  rotate: false
+  xy: 1, 718
+  size: 252, 268
+  orig: 252, 268
+  offset: 0, 0
+  index: -1
+SORCERER
+  rotate: false
+  xy: 1, 449
+  size: 219, 267
+  orig: 219, 267
+  offset: 0, 0
+  index: -1
+MAID
+  rotate: false
+  xy: 255, 723
+  size: 204, 263
+  orig: 204, 263
+  offset: 0, 0
+  index: -1
+FLUFF
+  rotate: false
+  xy: 461, 745
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+GOLEM
+  rotate: false
+  xy: 1, 207
+  size: 207, 240
+  orig: 207, 240
+  offset: 0, 0
+  index: -1
+OGRE
+  rotate: false
+  xy: 686, 748
+  size: 204, 238
+  orig: 204, 238
+  offset: 0, 0
+  index: -1
+TORTOISE
+  rotate: false
+  xy: 1, 1
+  size: 225, 204
+  orig: 225, 204
+  offset: 0, 0
+  index: -1
+DIABOLIC
+  rotate: false
+  xy: 222, 449
+  size: 162, 267
+  orig: 162, 267
+  offset: 0, 0
+  index: -1
+JELLY
+  rotate: false
+  xy: 210, 211
+  size: 174, 236
+  orig: 174, 236
+  offset: 0, 0
+  index: -1
+SCHOLAR
+  rotate: false
+  xy: 386, 456
+  size: 163, 265
+  orig: 163, 265
+  offset: 0, 0
+  index: -1

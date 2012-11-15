@@ -1,0 +1,103 @@
+
+RESULT.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PAUSE-RESUME-UP
+  rotate: false
+  xy: 1, 695
+  size: 292, 259
+  orig: 292, 259
+  offset: 0, 0
+  index: -1
+PAUSE-RETRY-UP
+  rotate: false
+  xy: 1, 434
+  size: 292, 259
+  orig: 292, 259
+  offset: 0, 0
+  index: -1
+PAUSE-RESUME-DOWN
+  rotate: false
+  xy: 295, 737
+  size: 218, 217
+  orig: 218, 217
+  offset: 0, 0
+  index: -1
+PAUSE-RETRY-DOWN
+  rotate: false
+  xy: 1, 215
+  size: 218, 217
+  orig: 218, 217
+  offset: 0, 0
+  index: -1
+HAMMERS
+  rotate: false
+  xy: 295, 523
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+MENU
+  rotate: false
+  xy: 515, 742
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+RETRY
+  rotate: false
+  xy: 1, 1
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+NEW-HIGHSCORE
+  rotate: false
+  xy: 729, 925
+  size: 280, 29
+  orig: 280, 29
+  offset: 0, 0
+  index: -1
+PAUSE-MENU-DOWN
+  rotate: false
+  xy: 729, 783
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+PAUSE-MENU
+  rotate: false
+  xy: 870, 783
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+MUSIC-DISABLED
+  rotate: false
+  xy: 295, 395
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+MUSIC
+  rotate: false
+  xy: 221, 267
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+SOUND-DISABLED
+  rotate: false
+  xy: 369, 267
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+SOUND
+  rotate: false
+  xy: 443, 395
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
