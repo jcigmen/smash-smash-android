@@ -5,36 +5,48 @@ filter: Nearest,Nearest
 repeat: none
 TITLE
   rotate: false
-  xy: 1, 567
+  xy: 1, 432
   size: 770, 348
   orig: 770, 348
   offset: 0, 0
   index: -1
-ARCADE
+ENDLESS
   rotate: false
   xy: 1, 85
-  size: 480, 480
-  orig: 480, 480
+  size: 346, 345
+  orig: 346, 345
   offset: 0, 0
   index: -1
-SURVIVAL
+ARCADE
   rotate: false
-  xy: 483, 85
-  size: 480, 480
-  orig: 480, 480
+  xy: 349, 85
+  size: 345, 345
+  orig: 345, 345
   offset: 0, 0
   index: -1
 HAMMERS
   rotate: false
-  xy: 1, 1
+  xy: 773, 698
   size: 178, 82
   orig: 178, 82
   offset: 0, 0
   index: -1
 STATS
   rotate: false
-  xy: 773, 833
+  xy: 1, 1
   size: 178, 82
   orig: 178, 82
+  offset: 0, 0
+  index: -1
+
+MENU2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FURY
+  rotate: false
+  xy: 1, 1
+  size: 345, 345
+  orig: 345, 345
   offset: 0, 0
   index: -1
