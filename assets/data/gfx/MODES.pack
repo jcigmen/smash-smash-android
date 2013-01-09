@@ -1,0 +1,64 @@
+
+MODES.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARCADE-DOWNSTATE
+  rotate: false
+  xy: 0, 73
+  size: 397, 562
+  orig: 397, 562
+  offset: 0, 0
+  index: -1
+ARCADE-UPSTATE
+  rotate: false
+  xy: 397, 73
+  size: 397, 562
+  orig: 397, 562
+  offset: 0, 0
+  index: -1
+SELECT-MODE
+  rotate: false
+  xy: 0, 0
+  size: 584, 73
+  orig: 584, 73
+  offset: 0, 0
+  index: -1
+
+MODES2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ENDLESS-DOWNSTATE
+  rotate: false
+  xy: 0, 0
+  size: 397, 562
+  orig: 397, 562
+  offset: 0, 0
+  index: -1
+ENDLESS-UPSTATE
+  rotate: false
+  xy: 397, 0
+  size: 397, 562
+  orig: 397, 562
+  offset: 0, 0
+  index: -1
+
+MODES3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FURY-DOWNSTATE
+  rotate: false
+  xy: 0, 0
+  size: 396, 561
+  orig: 396, 561
+  offset: 0, 0
+  index: -1
+FURY-UPSTATE
+  rotate: false
+  xy: 396, 0
+  size: 396, 561
+  orig: 396, 561
+  offset: 0, 0
+  index: -1

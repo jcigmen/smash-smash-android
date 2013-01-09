@@ -5,8 +5,29 @@ filter: Nearest,Nearest
 repeat: none
 PUKE_GREEN
   rotate: false
-  xy: 1, 1
+  xy: 1, 115
   size: 311, 331
   orig: 311, 331
+  offset: 0, 0
+  index: -1
+HAMMER_TIME
+  rotate: false
+  xy: 1, 1
+  size: 235, 112
+  orig: 235, 112
+  offset: 0, 0
+  index: -1
+SCORE_FRENZY
+  rotate: false
+  xy: 314, 340
+  size: 232, 106
+  orig: 232, 106
+  offset: 0, 0
+  index: -1
+INVULNERABILITY
+  rotate: false
+  xy: 314, 237
+  size: 215, 101
+  orig: 215, 101
   offset: 0, 0
   index: -1

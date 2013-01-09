@@ -15,7 +15,8 @@
     
     <application android:icon="@drawable/icon" android:label="Smash! Smash!">
         <activity android:name=".SmashSmashAndroid"
-                  android:label="Smash! Smash!" android:screenOrientation="landscape"
+                  android:label="Smash! Smash!" 
+                  android:screenOrientation="landscape"
                   android:configChanges="keyboard|keyboardHidden|orientation">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

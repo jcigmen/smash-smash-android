@@ -1,0 +1,131 @@
+
+MENU.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TITLE
+  rotate: false
+  xy: 0, 661
+  size: 770, 348
+  orig: 770, 348
+  offset: 0, 0
+  index: -1
+PROMPT-PANE
+  rotate: false
+  xy: 0, 240
+  size: 656, 421
+  orig: 656, 421
+  offset: 0, 0
+  index: -1
+BACK-DOWNSTATE
+  rotate: false
+  xy: 770, 929
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+BACK-UPSTATE
+  rotate: false
+  xy: 0, 160
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+NO-DOWNSTATE
+  rotate: false
+  xy: 770, 849
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+NO-UPSTATE
+  rotate: false
+  xy: 0, 80
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+OK-DOWNSTATE
+  rotate: false
+  xy: 170, 160
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+OK-UPSTATE
+  rotate: false
+  xy: 770, 769
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+YES-DOWNSTATE
+  rotate: false
+  xy: 0, 0
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+YES-UPSTATE
+  rotate: false
+  xy: 170, 80
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+HAMMERS-DOWNSTATE
+  rotate: false
+  xy: 340, 124
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+HAMMERS-UPSTATE
+  rotate: false
+  xy: 456, 124
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+STATS-DOWNSTATE
+  rotate: false
+  xy: 656, 545
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+STATS-UPSTATE
+  rotate: false
+  xy: 656, 429
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+MUSIC-DOWNSTATE
+  rotate: false
+  xy: 656, 316
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+MUSIC-UPSTATE
+  rotate: false
+  xy: 572, 127
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+SOUND-DOWNSTATE
+  rotate: false
+  xy: 340, 11
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+SOUND-UPSTATE
+  rotate: false
+  xy: 453, 11
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,96 @@
+
+HAMMERS.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PANE
+  rotate: false
+  xy: 1, 602
+  size: 1022, 200
+  orig: 1022, 200
+  offset: 0, 0
+  index: -1
+STORE-LOGO
+  rotate: false
+  xy: 1, 467
+  size: 582, 133
+  orig: 582, 133
+  offset: 0, 0
+  index: -1
+STORE-SUBLOGO
+  rotate: false
+  xy: 1, 425
+  size: 581, 40
+  orig: 581, 40
+  offset: 0, 0
+  index: -1
+GOLD-PANE
+  rotate: false
+  xy: 585, 517
+  size: 342, 83
+  orig: 342, 83
+  offset: 0, 0
+  index: -1
+BUY-DOWNSTATE
+  rotate: false
+  xy: 1, 293
+  size: 282, 130
+  orig: 282, 130
+  offset: 0, 0
+  index: -1
+BUY-UPSTATE
+  rotate: false
+  xy: 1, 161
+  size: 282, 130
+  orig: 282, 130
+  offset: 0, 0
+  index: -1
+EQUIP-DOWNSTATE
+  rotate: false
+  xy: 285, 293
+  size: 282, 130
+  orig: 282, 130
+  offset: 0, 0
+  index: -1
+EQUIP-UPSTATE
+  rotate: false
+  xy: 1, 29
+  size: 282, 130
+  orig: 282, 130
+  offset: 0, 0
+  index: -1
+SOLD-OUT
+  rotate: false
+  xy: 585, 470
+  size: 236, 45
+  orig: 236, 45
+  offset: 0, 0
+  index: -1
+ITEM-PANE
+  rotate: false
+  xy: 285, 160
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+FILL-GRAY
+  rotate: false
+  xy: 929, 574
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+FILL-LEFT
+  rotate: false
+  xy: 1, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+FILL-RIGHT
+  rotate: false
+  xy: 823, 489
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
