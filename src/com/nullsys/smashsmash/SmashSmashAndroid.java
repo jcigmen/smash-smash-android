@@ -7,6 +7,7 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
+import com.noobs2d.smashsmash.SmashSmash;
 
 public class SmashSmashAndroid extends AndroidApplication {
 
